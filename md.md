@@ -1,7 +1,7 @@
 #first
-
-[ ] This is good to you
+- [ ] This is good to you
+- [x] hello 
 
 ```sql
 
-this is good > for you < try as you want.
+- this is good > for you < try as you want.
